@@ -23,7 +23,6 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [seanghay/split-khmer](https://github.com/seanghay/split-khmer) Split Khmer sentence into an array of words.
 - [seanghay/khmertokenizer](https://github.com/seanghay/khmertokenizer)
 - [seanghay/khmerword](https://github.com/seanghay/khmerword)
-- [seanghay/khmerword](https://github.com/seanghay/khmerword)
 - [seanghay/khmernumber](https://github.com/seanghay/khmernumber)
 - [seanghay/khmernormalizer](https://github.com/seanghay/khmernormalizer)
 - [khmer-ocr-benchmark-dataset](https://github.com/EKYCSolutions/khmer-ocr-benchmark-dataset) A standardized benchmark dataset for Khmer Optical Character Recognition (OCR) engine.
