@@ -121,7 +121,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer word spell correction using BK-Tree data structure and Levenshtein distance](https://engleangs.medium.com/khmer-word-spell-correction-using-bk-tree-data-structure-and-levenshtein-distance-dd4d98e3766a)
 - [Introduction to kNN algorithm by experiment on Khmer Handwriting classification using Java 8](https://towardsdatascience.com/introduction-to-knn-machine-learning-algorithm-by-experiment-on-khmer-handwriting-classification-66a64652a02c)
 
-### 6. Misc
+### 7. Misc
 
 - [harfbuzz](https://github.com/harfbuzz/harfbuzz) A text shaping engine that supports Khmer language.
 - [xlm-roberta-base](https://huggingface.co/xlm-roberta-base) A better BERT with multiligual support.
