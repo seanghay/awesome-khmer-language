@@ -75,6 +75,8 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Bi-directional Maximal Matching Algorithm to Segment Khmer Words in Sentence](https://s3.ap-northeast-2.amazonaws.com/journal-home/journal/jips/fullText/787/jips_18_4_9.pdf)
 - [Detection and Correction of Homophonous Error Word for Khmer Language](https://www.researchgate.net/profile/Sok-Chea/publication/228963957_Detection_and_Correction_of_Homophonous_Error_Word_for_Khmer_Language/links/5572617108aeacff1ffacd75/Detection-and-Correction-of-Homophonous-Error-Word-for-Khmer-Language.pdf)
 - [No Language Left Behind (NLLB)](https://ai.meta.com/research/no-language-left-behind/)
+- [Phonological Principles And Automatic Phonemic And Phonetic Transcription Of Khmer Words](https://drive.google.com/file/d/1c_FXNy90pv06StsBMQz4Rzk87ulMqXyM/view)
+
 
 ### 5. Projects/Models
 
@@ -103,6 +105,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 
 ### 6. Blog
 
+- [Issues in Khmer syllable validation](https://lindenbergsoftware.com/en/notes/issues-in-khmer-syllable-validation/)
 - [Khmer Machine Learning (ML) Experiment](https://ml.tovnah.com/)
 - [Using AI to Generate Khmer Baby Names ](https://medium.com/@phylypo/using-ai-to-generate-khmer-baby-names-b9b0af79ee83)
 - [How domnung.com Ranks Khmer News](https://medium.com/@phylypo/how-domnung-com-ranks-khmer-news-92bd68989f7a)
