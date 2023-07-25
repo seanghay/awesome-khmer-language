@@ -136,3 +136,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [fastText](https://fasttext.cc/)
 - [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) Building Grapheme to Phoneme
 - [Compact Language Detector v3](https://github.com/google/cld3) Language Detection tool
+
+---
+
+> Khmer is not a low-resource language.
