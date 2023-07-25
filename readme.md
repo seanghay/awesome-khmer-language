@@ -51,6 +51,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer LineBreaking Dictionary](https://github.com/sbbic/khmerlbdict)
 - [Khmer tesseract-ocr](https://github.com/tesseract-ocr/tessdata/blob/main/khm.traineddata)
 - [Khmerlang Mobile Keyboard data](https://khmerlang.com/posts/4)
+- [Khmer Bible Recordings](http://littlex.net/khbible/)
 
 ### 4. Research Papers
 
