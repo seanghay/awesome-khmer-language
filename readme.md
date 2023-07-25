@@ -29,6 +29,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer utility functions](https://github.com/seanghay/is-khmer)
 - [Trey314159/KhmerSyllableReordering](https://github.com/Trey314159/KhmerSyllableReordering)
 - [khmer-dictionary-tools](https://code.google.com/archive/p/khmer-dictionary-tools/)
+- [nota/split-graphemes](https://github.com/nota/split-graphemes)
 
 ### 3. Datasets
 
