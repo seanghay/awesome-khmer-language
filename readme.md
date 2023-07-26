@@ -19,7 +19,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 
 - [Khmer Word Segmentation - Rina Buoy](https://github.com/rinabuoy/KhmerNLP)
 - [Khmer natural language processing toolkit](https://github.com/VietHoang1512/khmer-nltk)
-- [Khmer Limon to Unicode](https://github.com/danhhong/limon_unicode_converterhttps://github.com/danhhong/limon_unicode_converter)
+- [Khmer Limon to Unicode](https://github.com/danhhong/limon_unicode_converter)
 - [seanghay/split-khmer](https://github.com/seanghay/split-khmer) Split Khmer sentence into an array of words.
 - [seanghay/khmertokenizer](https://github.com/seanghay/khmertokenizer)
 - [seanghay/khmerword](https://github.com/seanghay/khmerword)
