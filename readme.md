@@ -53,6 +53,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer tesseract-ocr](https://github.com/tesseract-ocr/tessdata/blob/main/khm.traineddata)
 - [Khmerlang Mobile Keyboard data](https://khmerlang.com/posts/4)
 - [Khmer Bible Recordings](http://littlex.net/khbible/)
+- [SleukRith Set](https://github.com/donavaly/SleukRith-Set)
 
 ### 4. Research Papers
 
@@ -103,6 +104,13 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [pisethx/khmer-word-segmentation](https://github.com/pisethx/khmer-word-segmentation)
 - [khmer-forced-aligner](https://github.com/seanghay/khmer-forced-aligner)
 - [Fast Khmer Dictionary](https://khmerdict.com)
+- [SEANLP: Southeast Asia Natural Language Processing](https://github.com/zhaoshiyu/SEANLP)
+- [Khmerlang-Keyboard](https://github.com/khmerlang/Khmerlang-Keyboard)
+- [ericvida/khtransliterator](https://github.com/ericvida/khtransliterator)
+- [Khmer Unicode Converter](https://github.com/chamnap/khmer_unicode_converter)
+- [chantysothy/KhmerUnicodeConverter](https://github.com/chantysothy/KhmerUnicodeConverter)
+- [Pretrained-BERT-model-for-Khmer-language](https://github.com/rifatul-rifat/Pretrained-BERT-model-for-Khmer-language)
+- [Khmer Language Model for Handwritten Text Recognition on Historical Documents](https://github.com/SeanghortBorn/Khmer-Language-Model-v1.0)
 
 ### 6. Blog
 
