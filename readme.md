@@ -114,7 +114,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Pretrained-BERT-model-for-Khmer-language](https://github.com/rifatul-rifat/Pretrained-BERT-model-for-Khmer-language)
 - [Khmer Language Model for Handwritten Text Recognition on Historical Documents](https://github.com/SeanghortBorn/Khmer-Language-Model-v1.0)
 
-### 6. Blog
+### 6. Blog / Slides
 
 - [Issues in Khmer syllable validation](https://lindenbergsoftware.com/en/notes/issues-in-khmer-syllable-validation/)
 - [Khmer Machine Learning (ML) Experiment](https://ml.tovnah.com/)
@@ -135,6 +135,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmerlang.com](https://khmerlang.com/)
 - [Khmer word spell correction using BK-Tree data structure and Levenshtein distance](https://engleangs.medium.com/khmer-word-spell-correction-using-bk-tree-data-structure-and-levenshtein-distance-dd4d98e3766a)
 - [Introduction to kNN algorithm by experiment on Khmer Handwriting classification using Java 8](https://towardsdatascience.com/introduction-to-knn-machine-learning-algorithm-by-experiment-on-khmer-handwriting-classification-66a64652a02c)
+- [Speech Synthesis and Low Resource Languages](./assets/SLTU_TTS_Tutorial.pdf)
 
 ### 7. Misc
 
