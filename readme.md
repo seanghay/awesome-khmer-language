@@ -81,6 +81,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Multi-lingual Transformer Training for Khmer Automatic Speech Recognition](http://www.sap.ist.i.kyoto-u.ac.jp/lab/bib/intl/SOK-APSIPA19.pdf)
 - [TriECCC: Trilingual Corpus of the Extraordinary Chambers in the Courts of Cambodia for Speech Recognition and Translation Studies](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/276897/1/s2717554522500072.pdf)
 - [Domain and Language Adaptation Using Heterogeneous Datasets for Wav2vec2.0-Based Speech Recognition of Low-Resource Language](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/SOK-ICASSP23.pdf)
+- [Khmer pronouncing dictionary: standard Khmer and Phnom Penh dialect](https://unesdoc.unesco.org/ark:/48223/pf0000246360)
 
 ### 5. Projects/Models
 
