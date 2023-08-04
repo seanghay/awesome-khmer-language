@@ -31,6 +31,8 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmer-dictionary-tools](https://code.google.com/archive/p/khmer-dictionary-tools/)
 - [nota/split-graphemes](https://github.com/nota/split-graphemes)
 - [NextSpell](https://nextspell.com/) - ពិនិត្យអក្ខរាវិរុទ្ធ, ខ្មែរ OCR, កាត់ពាក្យ
+- [khmercut](https://github.com/seanghay/khmercut) A (fast) Khmer word segmentation toolkit.
+
 
 ### 3. Datasets
 
