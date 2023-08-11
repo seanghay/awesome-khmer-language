@@ -56,6 +56,8 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmerlang Mobile Keyboard data](https://khmerlang.com/posts/4)
 - [Khmer Bible Recordings](http://littlex.net/khbible/)
 - [SleukRith Set](https://github.com/donavaly/SleukRith-Set)
+- [Khmer annotation](https://www.kaggle.com/datasets/keatchakravuth/khmer-annotation) Annotated Khmer Dataset for Word spotting
+
 
 ### 4. Research Papers
 
