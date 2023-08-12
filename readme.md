@@ -17,6 +17,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 
 ### 2. Toolkit
 
+- [automatic-phonemic-and-phonetic-transcription](https://gitlab.com/mkrlab/automatic-phonemic-and-phonetic-transcription)
 - [Khmer Word Segmentation - Rina Buoy](https://github.com/rinabuoy/KhmerNLP)
 - [Khmer natural language processing toolkit](https://github.com/VietHoang1512/khmer-nltk)
 - [Khmer Limon to Unicode](https://github.com/danhhong/limon_unicode_converter)
