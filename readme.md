@@ -35,7 +35,8 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmercut](https://github.com/seanghay/khmercut) A (fast) Khmer word segmentation toolkit.
 - [Socret360/akara-python](https://github.com/Socret360/akara-python) AKARA: Open-Source Khmer Spell Checker
 - [khmer-latin-name-transformer](https://github.com/seanghay/khmer-latin-name-transformer)
-
+- [native-khmer-g2p](https://github.com/seanghay/native-khmer-g2p)
+- 
 ### 3. Datasets
 
 - [khPOS (Khmer Part-of-Speech) Corpus for Khmer NLP Research and Developments](https://github.com/ye-kyaw-thu/khPOS/) 
