@@ -146,6 +146,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer word spell correction using BK-Tree data structure and Levenshtein distance](https://engleangs.medium.com/khmer-word-spell-correction-using-bk-tree-data-structure-and-levenshtein-distance-dd4d98e3766a)
 - [Introduction to kNN algorithm by experiment on Khmer Handwriting classification using Java 8](https://towardsdatascience.com/introduction-to-knn-machine-learning-algorithm-by-experiment-on-khmer-handwriting-classification-66a64652a02c)
 - [Speech Synthesis and Low Resource Languages](./assets/SLTU_TTS_Tutorial.pdf)
+- [ការបញ្ចូលអក្សរខ្មែរក្នុងយូនីកូដ ឯកសារឆ្នាំ 1996](https://khmertypography.com/khmer-unicode-letter-1996)
 
 ### 7. Misc
 
