@@ -123,6 +123,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [chantysothy/KhmerUnicodeConverter](https://github.com/chantysothy/KhmerUnicodeConverter)
 - [Pretrained-BERT-model-for-Khmer-language](https://github.com/rifatul-rifat/Pretrained-BERT-model-for-Khmer-language)
 - [Khmer Language Model for Handwritten Text Recognition on Historical Documents](https://github.com/SeanghortBorn/Khmer-Language-Model-v1.0)
+- [Khmer Single Word TTS](https://huggingface.co/spaces/seanghay/KLEA)
 
 ### 6. Blog / Slides
 
