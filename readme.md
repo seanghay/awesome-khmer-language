@@ -62,7 +62,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer Bible Recordings](http://littlex.net/khbible/)
 - [SleukRith Set](https://github.com/donavaly/SleukRith-Set)
 - [Khmer annotation](https://www.kaggle.com/datasets/keatchakravuth/khmer-annotation) Annotated Khmer Dataset for Word spotting
-
+- [sosap(សូរសព្ទ) Python binding for Phonetisaurus](https://github.com/seanghay/sosap)
 
 ### 4. Research Papers
 
@@ -91,7 +91,9 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [TriECCC: Trilingual Corpus of the Extraordinary Chambers in the Courts of Cambodia for Speech Recognition and Translation Studies](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/276897/1/s2717554522500072.pdf)
 - [Domain and Language Adaptation Using Heterogeneous Datasets for Wav2vec2.0-Based Speech Recognition of Low-Resource Language](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/SOK-ICASSP23.pdf)
 - [Khmer pronouncing dictionary: standard Khmer and Phnom Penh dialect](https://unesdoc.unesco.org/ark:/48223/pf0000246360)
-
+- [ViTSTR-Transducer: Cross-Attention-Free Vision Transformer Transducer for Scene Text Recognition](https://www.mdpi.com/2313-433X/9/12/276)
+- [Explainable Connectionist-Temporal-Classification-Based Scene Text Recognition](https://www.mdpi.com/2313-433X/9/11/248)
+  
 ### 5. Projects/Models
 
 - [facebookresearch/fairseq/mms](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) Text to Speech and Speech to Text
