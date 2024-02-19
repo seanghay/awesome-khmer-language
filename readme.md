@@ -38,6 +38,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [native-khmer-g2p](https://github.com/seanghay/native-khmer-g2p)
 - [khmerphonemizer](https://github.com/seanghay/khmerphonemizer)
 - [kfa](https://github.com/seanghay/kfa) A fast Khmer Forced Aligner powered by Wav2Vec2CTC and Phonetisaurus
+- [sosap(សូរសព្ទ)](https://github.com/seanghay/sosap) Python binding for Phonetisaurus
 
 
 ### 3. Datasets
@@ -63,7 +64,6 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer Bible Recordings](http://littlex.net/khbible/)
 - [SleukRith Set](https://github.com/donavaly/SleukRith-Set)
 - [Khmer annotation](https://www.kaggle.com/datasets/keatchakravuth/khmer-annotation) Annotated Khmer Dataset for Word spotting
-- [sosap(សូរសព្ទ) Python binding for Phonetisaurus](https://github.com/seanghay/sosap)
 
 ### 4. Research Papers
 
