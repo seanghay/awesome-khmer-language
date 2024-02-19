@@ -37,8 +37,8 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmer-latin-name-transformer](https://github.com/seanghay/khmer-latin-name-transformer)
 - [native-khmer-g2p](https://github.com/seanghay/native-khmer-g2p)
 - [khmerphonemizer](https://github.com/seanghay/khmerphonemizer)
-
-
+- [kfa](https://github.com/seanghay/kfa) A fast Khmer Forced Aligner powered by Wav2Vec2CTC and Phonetisaurus
+- 
 ### 3. Datasets
 
 - [khPOS (Khmer Part-of-Speech) Corpus for Khmer NLP Research and Developments](https://github.com/ye-kyaw-thu/khPOS/) 
