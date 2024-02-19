@@ -39,7 +39,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmerphonemizer](https://github.com/seanghay/khmerphonemizer)
 - [kfa](https://github.com/seanghay/kfa) A fast Khmer Forced Aligner powered by Wav2Vec2CTC and Phonetisaurus
 - [sosap(សូរសព្ទ)](https://github.com/seanghay/sosap) Python binding for Phonetisaurus
-
+- [khmer-unicode-converter](https://github.com/seanghay/khmer-unicode-converter) Khmer Unicode Converter
 
 ### 3. Datasets
 
