@@ -41,6 +41,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [sosap(សូរសព្ទ)](https://github.com/seanghay/sosap) Python binding for Phonetisaurus
 - [khmer-unicode-converter](https://github.com/seanghay/khmer-unicode-converter) Khmer Unicode Converter
 - [khmerpunctuate](https://github.com/seanghay/khmerpunctuate) Punctuation Restoration for Khmer language
+- [khmerocr_tools](https://github.com/MetythornPenn/khmerocr_tools) Khmer OCR Synthetic Data Generator
 
 ### 3. Datasets
 
