@@ -42,6 +42,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmer-unicode-converter](https://github.com/seanghay/khmer-unicode-converter) Khmer Unicode Converter
 - [khmerpunctuate](https://github.com/seanghay/khmerpunctuate) Punctuation Restoration for Khmer language
 - [khmerocr_tools](https://github.com/MetythornPenn/khmerocr_tools) Khmer OCR Synthetic Data Generator
+- [Socret360/jaws](https://github.com/Socret360/jaws) Just Another Word Segmenter (JAWS): A Graph Neural Network Model for Khmer Word Segmentation
 
 ### 3. Datasets
 
