@@ -97,6 +97,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer pronouncing dictionary: standard Khmer and Phnom Penh dialect](https://unesdoc.unesco.org/ark:/48223/pf0000246360)
 - [ViTSTR-Transducer: Cross-Attention-Free Vision Transformer Transducer for Scene Text Recognition](https://www.mdpi.com/2313-433X/9/12/276)
 - [Explainable Connectionist-Temporal-Classification-Based Scene Text Recognition](https://www.mdpi.com/2313-433X/9/11/248)
+- [Toward a Low-Resource Non-Latin-Complete Baseline: An Exploration of Khmer Optical Character Recognition](https://ieeexplore.ieee.org/document/10316307)
   
 ### 5. Projects/Models
 
