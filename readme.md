@@ -44,6 +44,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [khmerocr_tools](https://github.com/MetythornPenn/khmerocr_tools) Khmer OCR Synthetic Data Generator
 - [Socret360/jaws](https://github.com/Socret360/jaws) Just Another Word Segmenter (JAWS): A Graph Neural Network Model for Khmer Word Segmentation
 - [seanghay/khmersegment](https://github.com/seanghay/khmersegment) A Khmer word segmentation tool built for NIPTICT (now CADT) Khmer Word Segmentation CRF model.
+- [seanghay/khmer-acoustic-model-mfa](https://github.com/seanghay/khmer-acoustic-model-mfa) Train an Acoustic Model for Khmer language with Montreal Forced Aligner
 
 ### 3. Datasets
 
