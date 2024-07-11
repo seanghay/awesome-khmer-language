@@ -47,6 +47,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [seanghay/khmer-acoustic-model-mfa](https://github.com/seanghay/khmer-acoustic-model-mfa) Train an Acoustic Model for Khmer language with Montreal Forced Aligner
 - [seanghay/tha](https://github.com/seanghay/tha) Tha (ថា) - A Khmer Text Normalization and Verbalization Toolkit
 - [seanghay/khmerpronounce](https://github.com/seanghay/khmerpronounce) Khmer Pronounciation Toolkit
+- [seanghay/khmer2number](https://github.com/seanghay/khmer2number) A Khmer word to number converter.
 
 
 ### 3. Datasets
