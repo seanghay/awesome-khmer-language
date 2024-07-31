@@ -138,6 +138,8 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [Khmer Language Model for Handwritten Text Recognition on Historical Documents](https://github.com/SeanghortBorn/Khmer-Language-Model-v1.0)
 - [Khmer Single Word TTS](https://huggingface.co/spaces/seanghay/KLEA)
 - [SeaLLMs](https://huggingface.co/SeaLLMs) Large Language Models for Southeast Asia
+- [XLM-RoBERTa-Khmer](https://huggingface.co/seanghay/xlm-roberta-khmer-small) Training from scratch using Masked Language Modeling task on 5M Khmer sentences or 162M words or 578K unique words for 1M steps. While being smaller than XLM-RoBERTa-Base
+
 
 ### 6. Blog / Slides
 
