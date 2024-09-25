@@ -188,13 +188,14 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 1. [Danh Hong](https://github.com/danhhong) OCR, Typography, Spellchecker, Standard/Specification
 2. [Sovichet Tep](https://github.com/sovichet) Typography, Standard/Specification
 3. [Dr. Rina Buoy](https://scholar.google.com/citations?user=Zw4RKwcAAAAJ) NLP, OCR, Document OCR
-4. [Dr. Kak Soky](https://scholar.google.com/citations?user=221cQOgAAAAJ) ASR, Machine Translation
+4. [Dr. Kak Soky](https://scholar.google.com/citations?user=221cQOgAAAAJ) TTS, ASR, Machine Translation
 5. [Rathanak Sreang](https://github.com/RathanakSreang) NLP, SpellChecker
 6. [Socret Lee](https://github.com/Socret360) OCR, SpellChecker, NLP, Other deep learning tasks.
 7. [Vitou Phy](https://demystifyml.co/) Khmer OCR, ASR, SpellChecker, NLP, Other deep learning tasks.
 8. [Marc Durdin](https://github.com/mcdurdin) Khmer Specification, Keyboard, Encoding
 9. [Makara Sok](https://github.com/MakaraSok) Specification, Keyboard, Encoding, Phonetics
-10. You - Please send a Pull Request :)
+10. [Seanghay Yath](https://github.com/seanghay) TTS, ASR, NLP
+11. You - Please send a Pull Request :)
 
 ---
 
