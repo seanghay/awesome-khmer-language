@@ -49,6 +49,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [seanghay/tha](https://github.com/seanghay/tha) Tha (ថា) - A Khmer Text Normalization and Verbalization Toolkit
 - [seanghay/khmerpronounce](https://github.com/seanghay/khmerpronounce) Khmer Pronounciation Toolkit
 - [seanghay/khmer2number](https://github.com/seanghay/khmer2number) A Khmer word to number converter.
+- [seanghay/sone](https://github.com/seanghay/sone) SwiftUI-inspired canvas layout engine with advanced rich text support and Khmer language.
 
 
 ### 3. Datasets
