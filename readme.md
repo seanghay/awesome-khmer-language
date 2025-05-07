@@ -169,7 +169,7 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 
 ### 7. Misc
 
-- [harfbuzz](https://github.com/harfbuzz/harfbuzz) A text shaping engine that supports Khmer language.
+
 - [xlm-roberta-base](https://huggingface.co/xlm-roberta-base) A better BERT with multiligual support.
 - [mt5-base](https://huggingface.co/google/mt5-base) Google T5 multiligual support.
 - [byt5-base](https://huggingface.co/google/byt5-base) Google T5 without tokenizer.
@@ -181,11 +181,17 @@ A large collection of Khmer language resources. Khmer is a language used by Camb
 - [fastText](https://fasttext.cc/)
 - [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) Building Grapheme to Phoneme
 - [Compact Language Detector v3](https://github.com/google/cld3) Language Detection tool
-- https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-khmer.md 
+
+### 8. Shaping & Layout
+
+- [harfbuzz](https://github.com/harfbuzz/harfbuzz) A text shaping engine that supports Khmer language.
+- https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-khmer.md
+- https://scripts.sil.org/cms/scripts/page.php?id=cmplxrndexamples&site_id=nrsi
+- http://sile-typesetter.org/
 
 ---
 
-### 8. People
+### 9. People
 
 1. [Danh Hong](https://github.com/danhhong) OCR, Typography, Spellchecker, Standard/Specification
 2. [Sovichet Tep](https://github.com/sovichet) Typography, Standard/Specification
