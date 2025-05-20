@@ -2,6 +2,13 @@
 
 A large collection of Khmer language resources. Khmer is a language used by Cambodia. 
 
+---
+<a href="https://khmerscan.com/"><img width=56 src="https://khmerscan.com/favicon.svg" alt=""></a>
+
+Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភាពទៅជាអត្ថបទខ្មែរ)
+
+---
+
 **Pull Requests are very welcomed!** 
 
 ### 1. Specification
