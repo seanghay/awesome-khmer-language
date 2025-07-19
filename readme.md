@@ -150,6 +150,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [XLM-RoBERTa-Khmer](https://huggingface.co/seanghay/xlm-roberta-khmer-small) Training from scratch using Masked Language Modeling task on 5M Khmer sentences or 162M words or 578K unique words for 1M steps. While being smaller than XLM-RoBERTa-Base
 - [metythorn/khmer-xlm-roberta-base](https://huggingface.co/metythorn/khmer-xlm-roberta-base) XLM Roberta trained from scratch for Khmer Language 
 - [metythorn/khmer-xlm-roberta-base-100k](https://huggingface.co/metythorn/khmer-xlm-roberta-base-100k) XLM Roberta trained from scratch for Khmer Language
+- [https://github.com/danhhong/khmer_lunar_date](https://github.com/danhhong/khmer_lunar_date) Convert Gregorian date to Khmer Lunar Calendar with zodiac, stem, and Buddhist year – 🇰🇭 Python implementation
 
 
 ### 6. Blog / Slides
