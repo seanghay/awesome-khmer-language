@@ -152,6 +152,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [metythorn/khmer-xlm-roberta-base-100k](https://huggingface.co/metythorn/khmer-xlm-roberta-base-100k) XLM Roberta trained from scratch for Khmer Language
 - [danhhong/khmer_lunar_date](https://github.com/danhhong/khmer_lunar_date) Convert Gregorian date to Khmer Lunar Calendar with zodiac, stem, and Buddhist year – 🇰🇭 Python implementation
 - [Chhunneng/khmer-text-transliteration](https://github.com/Chhunneng/khmer-text-transliteration) A Python-based system for transliterating English text to Khmer script using sequence-to-sequence neural networks.
+- [khopilot/km-tokenizer-khmer](https://huggingface.co/khopilot/km-tokenizer-khmer) Khmer Tokenizer v3 - Optimized
 
 
 ### 6. Blog / Slides
