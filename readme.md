@@ -113,6 +113,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [ViTSTR-Transducer: Cross-Attention-Free Vision Transformer Transducer for Scene Text Recognition](https://www.mdpi.com/2313-433X/9/12/276)
 - [Explainable Connectionist-Temporal-Classification-Based Scene Text Recognition](https://www.mdpi.com/2313-433X/9/11/248)
 - [Toward a Low-Resource Non-Latin-Complete Baseline: An Exploration of Khmer Optical Character Recognition](https://ieeexplore.ieee.org/document/10316307)
+- [KhmerTagger: Inverse Text Normalization for Khmer Automatic Speech Recognition](https://github.com/seanghay/khmertagger)
   
 ### 5. Projects/Models
 
