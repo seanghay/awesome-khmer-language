@@ -155,6 +155,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Chhunneng/khmer-text-transliteration](https://github.com/Chhunneng/khmer-text-transliteration) A Python-based system for transliterating English text to Khmer script using sequence-to-sequence neural networks.
 - [khopilot/km-tokenizer-khmer](https://huggingface.co/khopilot/km-tokenizer-khmer) Khmer Tokenizer v3 - Optimized
 - [Aishete/mms-tts-khm-fastapi](https://github.com/Aishete/mms-tts-khm-fastapi) - A Dockerized FastAPI wrapper for running mms-tts-khm models locally.
+- [lyfeyvutha/3d-voxel-diffusion](https://github.com/lyfeyvutha/3d-voxel-diffusion) - A 3D Diffusion model trained from scratch for Khmer numerals/fonts (e.g., KantumruyPro, etc).
 
 ### 6. Blog / Slides
 
