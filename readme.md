@@ -82,6 +82,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Khmer Bible Recordings](http://littlex.net/khbible/)
 - [SleukRith Set](https://github.com/donavaly/SleukRith-Set)
 - [Khmer annotation](https://www.kaggle.com/datasets/keatchakravuth/khmer-annotation) Annotated Khmer Dataset for Word spotting
+- [Cambodia gazetteer](https://cambo-gazetteer.manethpak.dev/) A complete geographical index/dictionary of Cambodia locations
 
 ### 4. Research Papers
 
