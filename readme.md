@@ -58,7 +58,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [seanghay/khmer2number](https://github.com/seanghay/khmer2number) A Khmer word to number converter.
 - [seanghay/sone](https://github.com/seanghay/sone) SwiftUI-inspired canvas layout engine with advanced rich text support and Khmer language.
 - [Sovichea/khmer_segmenter](https://github.com/Sovichea/khmer_segmenter) A zero-dependency, high-performance Khmer word segmenter using the Viterbi algorithm. Optimized for dictionary accuracy, ultra-low memory footprint, and edge deployment.
-
+- [seanghay/KhmerOCR](https://github.com/seanghay/KhmerOCR) A Fast Khmer Optical Character Recognition (Document only). The model was trained on 3M text lines with over 800+ Khmer fonts.
 
 ### 3. Datasets
 
