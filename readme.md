@@ -158,6 +158,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [khopilot/km-tokenizer-khmer](https://huggingface.co/khopilot/km-tokenizer-khmer) Khmer Tokenizer v3 - Optimized
 - [Aishete/mms-tts-khm-fastapi](https://github.com/Aishete/mms-tts-khm-fastapi) - A Dockerized FastAPI wrapper for running mms-tts-khm models locally.
 - [lyfeyvutha/3d-voxel-diffusion](https://github.com/lyfeyvutha/3d-voxel-diffusion) - A 3D Diffusion model trained from scratch for Khmer numerals/fonts (e.g., KantumruyPro, etc).
+- [seanghay/albert-khmer-small](https://huggingface.co/seanghay/albert-khmer-small) A lightweight, efficient ALBERT model pre-trained from scratch on a large-scale Khmer corpus. It is designed to provide high-performance natural language understanding for the Khmer language while maintaining a tiny memory footprint.
 
 ### 6. Blog / Slides
 
