@@ -59,6 +59,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [seanghay/sone](https://github.com/seanghay/sone) SwiftUI-inspired canvas layout engine with advanced rich text support and Khmer language.
 - [Sovichea/khmer_segmenter](https://github.com/Sovichea/khmer_segmenter) A zero-dependency, high-performance Khmer word segmenter using the Viterbi algorithm. Optimized for dictionary accuracy, ultra-low memory footprint, and edge deployment.
 - [seanghay/KhmerOCR](https://github.com/seanghay/KhmerOCR) A Fast Khmer Optical Character Recognition (Document only). The model was trained on 3M text lines with over 800+ Khmer fonts.
+- [seanghay/khmer-neural-segmenter](https://github.com/seanghay/khmer-neural-segmenter) A fast Khmer word segmentation library using Bidirectional GRU and CRF.
 
 ### 3. Datasets
 
@@ -159,7 +160,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Aishete/mms-tts-khm-fastapi](https://github.com/Aishete/mms-tts-khm-fastapi) - A Dockerized FastAPI wrapper for running mms-tts-khm models locally.
 - [lyfeyvutha/3d-voxel-diffusion](https://github.com/lyfeyvutha/3d-voxel-diffusion) - A 3D Diffusion model trained from scratch for Khmer numerals/fonts (e.g., KantumruyPro, etc).
 - [seanghay/albert-khmer-small](https://huggingface.co/seanghay/albert-khmer-small) A lightweight, efficient ALBERT model pre-trained from scratch on a large-scale Khmer corpus. It is designed to provide high-performance natural language understanding for the Khmer language while maintaining a tiny memory footprint.
-- [https://github.com/seanghay/khmer-neural-segmenter](https://github.com/seanghay/khmer-neural-segmenter) A fast Khmer word segmentation library using Bidirectional GRU and CRF.
+
 
 ### 6. Blog / Slides
 
