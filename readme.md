@@ -86,6 +86,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [SleukRith Set](https://github.com/donavaly/SleukRith-Set)
 - [Khmer annotation](https://www.kaggle.com/datasets/keatchakravuth/khmer-annotation) Annotated Khmer Dataset for Word spotting
 - [Cambodia gazetteer](https://cambo-gazetteer.manethpak.dev/) A complete geographical index/dictionary of Cambodia locations
+- [DDD-Cambodia/khm-asr-cultural](https://huggingface.co/datasets/DDD-Cambodia/khm-asr-cultural) Khmer ASR dataset with cultural content for speech recognition
 
 ### 4. Research Papers
 
