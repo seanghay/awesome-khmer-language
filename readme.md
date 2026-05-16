@@ -61,6 +61,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [seanghay/KhmerOCR](https://github.com/seanghay/KhmerOCR) A Fast Khmer Optical Character Recognition (Document only). The model was trained on 3M text lines with over 800+ Khmer fonts.
 - [seanghay/khmer-neural-segmenter](https://github.com/seanghay/khmer-neural-segmenter) A fast Khmer word segmentation library using Bidirectional GRU and CRF
 - [Kiri OCR](https://github.com/mrrtmob/kiri-ocr) - Lightweight OCR library for extracting English and Khmer text from documents.
+- [seanghay/betterkhmer](https://github.com/seanghay/betterkhmer) Regex-free, fast Khmer Encoding normalizer ported to 18 languages
 
 ### 3. Datasets
 
