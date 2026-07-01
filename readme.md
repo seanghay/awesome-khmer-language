@@ -123,6 +123,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
   
 ### 5. Projects/Models
 
+- [seanghay/Qwen3-ASR-0.6B-Khmer](https://huggingface.co/seanghay/Qwen3-ASR-0.6B-Khmer) A Khmer (ខ្មែរ) automatic speech recognition model, fine-tuned from Qwen/Qwen3-ASR-0.6B on ~700 hours of Khmer speech from the DDD-Cambodia/khmer-speech-dataset. It substantially improves Khmer transcription accuracy over the base model while keeping the compact 0.6B footprint.
 - [facebookresearch/fairseq/mms](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) Text to Speech and Speech to Text
 - [Khmer Language Model using ULMFiT](https://ml.tovnah.com/khmer-ulmfit/)
 - [KHMER WORD SEARCH BASE ON SEMANTIC RELATION](https://nlp.techostartup.center/)
