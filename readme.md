@@ -62,6 +62,8 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [seanghay/khmer-neural-segmenter](https://github.com/seanghay/khmer-neural-segmenter) A fast Khmer word segmentation library using Bidirectional GRU and CRF
 - [Kiri OCR](https://github.com/mrrtmob/kiri-ocr) - Lightweight OCR library for extracting English and Khmer text from documents.
 - [seanghay/betterkhmer](https://github.com/seanghay/betterkhmer) Regex-free, fast Khmer Encoding normalizer ported to 18 languages
+- [khmer-tokenizer](https://github.com/Alujack/khmer-tokenizer) - A fast, dependency-free Khmer word segmenter written in Rust, with Python (`khmer-tokenizer` on PyPI) and WebAssembly (`kh-tokenizer` on npm) bindings. Includes a live browser playground.
+
 
 ### 3. Datasets
 
