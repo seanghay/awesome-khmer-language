@@ -2,7 +2,7 @@ import re
 import os
 import requests
 from multiprocessing import Pool, cpu_count
-from datetime import datetime
+from datetime import datetime, timezone
 
 def request_link(args):
     name, url = args
@@ -14,20 +14,22 @@ def request_link(args):
         }
     )
     
-    response = session.head(url, allow_redirects=True)
-    if response.status_code != 200:
-        response = session.get(url, allow_redirects=True)
-
-    return (name, url, response.status_code)
+    try:
+        response = session.head(url, allow_redirects=True, timeout=20)
+        if response.status_code != 200:
+            response = session.get(url, allow_redirects=True, timeout=20)
+        return (name, url, response.status_code)
+    except requests.RequestException as e:
+        return (name, url, type(e).__name__)
 
 if __name__ == "__main__":
     current_dir = os.path.dirname(__file__)
     readme_file = os.path.join(current_dir, "../readme.md")
-    pool = Pool(cpu_count() - 1)
+    pool = Pool(max(cpu_count() - 1, 1))
     
     with open(os.path.join(current_dir, "../reports.md"), 'w') as outfile:
         outfile.write("## Report\n\n")
-        outfile.write(f"Date: {datetime.utcnow()}\n\n")
+        outfile.write(f"Date: {datetime.now(timezone.utc)}\n\n")
         outfile.write("| URL         | Status |\n")
         outfile.write("| ----------- | ----------- |\n")
         

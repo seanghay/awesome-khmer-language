@@ -13,7 +13,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 
 ### 1. Specification
 
-- [Khmer Characters - The Unicode Standard 15.0](https://www.unicode.org/charts/PDF/U1780.pdf)
+- [Khmer Characters - Unicode Code Chart](https://www.unicode.org/charts/PDF/U1780.pdf)
 - [Khmer Encoding Structure - Unicode](https://www.unicode.org/L2/L2021/21241-khmer-structure.pdf)
 - [sillsdev/khmer-character-specification](https://github.com/sillsdev/khmer-character-specification)
 - [Khmer Layout Requirements](https://www.w3.org/International/sealreq/khmer)
@@ -49,12 +49,11 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [sosap(សូរសព្ទ)](https://github.com/seanghay/sosap) Python binding for Phonetisaurus
 - [khmer-unicode-converter](https://github.com/seanghay/khmer-unicode-converter) Khmer Unicode Converter
 - [khmerpunctuate](https://github.com/seanghay/khmerpunctuate) Punctuation Restoration for Khmer language
-- [khmerocr_tools](https://github.com/MetythornPenn/khmerocr_tools) Khmer OCR Synthetic Data Generator
 - [Socret360/jaws](https://github.com/Socret360/jaws) Just Another Word Segmenter (JAWS): A Graph Neural Network Model for Khmer Word Segmentation
 - [seanghay/khmersegment](https://github.com/seanghay/khmersegment) A Khmer word segmentation tool built for NIPTICT (now CADT) Khmer Word Segmentation CRF model.
 - [seanghay/khmer-acoustic-model-mfa](https://github.com/seanghay/khmer-acoustic-model-mfa) Train an Acoustic Model for Khmer language with Montreal Forced Aligner
 - [seanghay/tha](https://github.com/seanghay/tha) Tha (ថា) - A Khmer Text Normalization and Verbalization Toolkit
-- [seanghay/khmerpronounce](https://github.com/seanghay/khmerpronounce) Khmer Pronounciation Toolkit
+- [seanghay/khmerpronounce](https://github.com/seanghay/khmerpronounce) Khmer Pronunciation Toolkit
 - [seanghay/khmer2number](https://github.com/seanghay/khmer2number) A Khmer word to number converter.
 - [seanghay/sone](https://github.com/seanghay/sone) SwiftUI-inspired canvas layout engine with advanced rich text support and Khmer language.
 - [Sovichea/khmer_segmenter](https://github.com/Sovichea/khmer_segmenter) A zero-dependency, high-performance Khmer word segmenter using the Viterbi algorithm. Optimized for dictionary accuracy, ultra-low memory footprint, and edge deployment.
@@ -63,6 +62,11 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Kiri OCR](https://github.com/mrrtmob/kiri-ocr) - Lightweight OCR library for extracting English and Khmer text from documents.
 - [seanghay/betterkhmer](https://github.com/seanghay/betterkhmer) Regex-free, fast Khmer Encoding normalizer ported to 18 languages
 - [khmer-tokenizer](https://github.com/Alujack/khmer-tokenizer) - A fast, dependency-free Khmer word segmenter written in Rust, with Python (`khmer-tokenizer` on PyPI) and WebAssembly (`kh-tokenizer` on npm) bindings. Includes a live browser playground.
+- [seanghay/khmer-address-parser](https://github.com/seanghay/khmer-address-parser) Khmer Neural Address Parser.
+- [netra-ai-lab/Netra-OCR](https://github.com/netra-ai-lab/Netra-OCR) A Squeeze-and-Excitation Transformer Network for Khmer Optical Character Recognition.
+- [netra-ai-lab/Romanized-Khmer-to-Khmer-Transliteration](https://github.com/netra-ai-lab/Romanized-Khmer-to-Khmer-Transliteration) Romanized Khmer to Khmer script transliteration using an attention-based BiGRU.
+- [rinabuoy/khmer-nlp-kcc](https://github.com/rinabuoy/khmer-nlp-kcc) Khmer word segmentation, POS tagging, and sentiment polarity.
+- [IDRI-LAB/Khmer-NLP-Tools](https://github.com/IDRI-LAB/Khmer-NLP-Tools) khnlp: a Khmer NLP library in Python from the CADT research team.
 
 
 ### 3. Datasets
@@ -72,7 +76,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Asian Language Treebank (ALT) Project](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
 - [phylypo/segmentation-crf-khmer](https://github.com/phylypo/segmentation-crf-khmer)
 - [google/language-resources](https://github.com/google/language-resources/tree/master/km) Lexicon, Text normalization and Verbalizer
-- [Illustrations and recordings for language learning](https://www.aakanee.com/) Audio recodings and illustration
+- [Illustrations and recordings for language learning](https://www.aakanee.com/) Audio recordings and illustrations
 - [seanghay/khmer-dictionary-44k](https://huggingface.co/datasets/seanghay/khmer-dictionary-44k)
 - [seanghay/km-speech-corpus](https://huggingface.co/datasets/seanghay/km-speech-corpus)
 - [seanghay/bookmebus-reviews](https://huggingface.co/datasets/seanghay/bookmebus-reviews)
@@ -90,6 +94,13 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Khmer annotation](https://www.kaggle.com/datasets/keatchakravuth/khmer-annotation) Annotated Khmer Dataset for Word spotting
 - [Cambodia gazetteer](https://cambo-gazetteer.manethpak.dev/) A complete geographical index/dictionary of Cambodia locations
 - [DDD-Cambodia/khm-asr-cultural](https://huggingface.co/datasets/DDD-Cambodia/khm-asr-cultural) Khmer ASR dataset with cultural content for speech recognition
+- [Digital-Divide-Data/khmer-speech-dataset](https://huggingface.co/datasets/Digital-Divide-Data/khmer-speech-dataset) ~728 hours of manually curated Khmer speech-text pairs by native speakers on Cambodian cultural topics.
+- [seanghay/khmer-spelling-corrections](https://huggingface.co/datasets/seanghay/khmer-spelling-corrections) Naturally occurring Khmer misspellings paired with the intended word, mined from search typing sessions.
+- [seanghay/khmer-hanuman-100k](https://huggingface.co/datasets/seanghay/khmer-hanuman-100k)
+- [SoyVitou/KhmerSynthetic1M](https://huggingface.co/datasets/SoyVitou/KhmerSynthetic1M) 1M synthetic Khmer OCR text-line images with labels.
+- [mrrtmob/khmer_english_ocr_image_line](https://huggingface.co/datasets/mrrtmob/khmer_english_ocr_image_line) 12M synthetic Khmer/English text-line images for OCR training.
+- [SoyVitou/khmer-handwritten-dataset-4.2k](https://huggingface.co/datasets/SoyVitou/khmer-handwritten-dataset-4.2k) Khmer handwritten text dataset.
+- [khopilot/khmer-lexicon](https://huggingface.co/datasets/khopilot/khmer-lexicon) Khmer lexicon.
 
 ### 4. Research Papers
 
@@ -122,6 +133,24 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Explainable Connectionist-Temporal-Classification-Based Scene Text Recognition](https://www.mdpi.com/2313-433X/9/11/248)
 - [Toward a Low-Resource Non-Latin-Complete Baseline: An Exploration of Khmer Optical Character Recognition](https://ieeexplore.ieee.org/document/10316307)
 - [KhmerTagger: Inverse Text Normalization for Khmer Automatic Speech Recognition](https://github.com/seanghay/khmertagger)
+- [KSW: Khmer Stop Word based Dictionary for Keyword Extraction](https://arxiv.org/abs/2405.17390)
+- [Khmer Semantic Search Engine (KSE): Digital Information Access and Document Retrieval](https://arxiv.org/abs/2406.09320)
+- [KhmerST: A Low-Resource Khmer Scene Text Detection and Recognition Benchmark](https://arxiv.org/abs/2410.18277)
+- [A Survey on Importance of Homophones Spelling Correction Model for Khmer Authors](https://arxiv.org/abs/2411.10477)
+- [Evaluating the Impact of Khmer Font Types on Text Recognition](https://arxiv.org/abs/2506.23963)
+- [Khmer Spellchecking: A Holistic Approach](https://arxiv.org/abs/2511.09812)
+- [Towards Explainable Khmer Polarity Classification](https://arxiv.org/abs/2511.09313)
+- [KH-FUNSD: A Hierarchical and Fine-Grained Layout Analysis Dataset for Low-Resource Khmer Business Document](https://arxiv.org/abs/2512.11849)
+- [PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation](https://arxiv.org/abs/2512.13552)
+- [Towards Universal Khmer Text Recognition](https://arxiv.org/abs/2603.00702)
+- [Towards Khmer Scene Document Layout Detection](https://arxiv.org/abs/2603.00707)
+- [A Comparative Study of Language Models for Khmer Retrieval-Augmented Question Answering](https://arxiv.org/abs/2605.22099)
+- [Closing the Quality Gap in Low-Resource Text-to-Speech: LoRA Fine-Tuning of VoxCPM2 for Khmer and Korean](https://arxiv.org/abs/2606.26618)
+- [Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung](https://arxiv.org/abs/2607.08362)
+- [KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search](https://arxiv.org/abs/2608.21365)
+- [Do MLLMs Really Understand Low-Resource Khmer Documents? A Pilot Study on Khmer Document VQA](https://arxiv.org/abs/2608.28635)
+- [Towards a Joint Khmer Text Recognition and Word Segmentation](https://arxiv.org/abs/2608.30213)
+- [THA: Weighted Finite-State Text Normalization and Inverse Text Normalization for Khmer](https://arxiv.org/abs/2609.30984)
   
 ### 5. Projects/Models
 
@@ -166,6 +195,10 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - [Aishete/mms-tts-khm-fastapi](https://github.com/Aishete/mms-tts-khm-fastapi) - A Dockerized FastAPI wrapper for running mms-tts-khm models locally.
 - [lyfeyvutha/3d-voxel-diffusion](https://github.com/lyfeyvutha/3d-voxel-diffusion) - A 3D Diffusion model trained from scratch for Khmer numerals/fonts (e.g., KantumruyPro, etc).
 - [seanghay/albert-khmer-small](https://huggingface.co/seanghay/albert-khmer-small) A lightweight, efficient ALBERT model pre-trained from scratch on a large-scale Khmer corpus. It is designed to provide high-performance natural language understanding for the Khmer language while maintaining a tiny memory footprint.
+- [khmerttsopensource/khmer-tts](https://huggingface.co/khmerttsopensource/khmer-tts) Khmer text-to-speech fine-tuned from facebook/mms-tts-khm.
+- [sumnim/VoxCPM2-Khmer](https://huggingface.co/sumnim/VoxCPM2-Khmer) VoxCPM2 text-to-speech adapted for Khmer.
+- [Darayut/khmer-text-recognition](https://huggingface.co/Darayut/khmer-text-recognition) Khmer text-line recognition model.
+- [mrrtmob/khmer-tts](https://huggingface.co/spaces/mrrtmob/khmer-tts) Khmer text-to-speech demo.
 
 
 ### 6. Blog / Slides
@@ -195,13 +228,13 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 ### 7. Misc
 
 
-- [xlm-roberta-base](https://huggingface.co/xlm-roberta-base) A better BERT with multiligual support.
-- [mt5-base](https://huggingface.co/google/mt5-base) Google T5 multiligual support.
+- [xlm-roberta-base](https://huggingface.co/xlm-roberta-base) A better BERT with multilingual support.
+- [mt5-base](https://huggingface.co/google/mt5-base) Google T5 with multilingual support.
 - [byt5-base](https://huggingface.co/google/byt5-base) Google T5 without tokenizer.
 - [sentencepiece](https://github.com/google/sentencepiece) A tool to create a tokenizer
 - [huggingface/transformers](https://github.com/huggingface/transformers)
 - [tiktoken](https://github.com/openai/tiktoken)
-- [montreal-forced-aligner](https://montreal-forced-aligner.readthedocs.io/) Accoustic Model & Alignment
+- [montreal-forced-aligner](https://montreal-forced-aligner.readthedocs.io/) Acoustic Model & Alignment
 - [pair_ngram](https://github.com/google-research/google-research/tree/master/pair_ngram) Building Grapheme to Phoneme
 - [fastText](https://fasttext.cc/)
 - [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus) Building Grapheme to Phoneme
@@ -213,6 +246,7 @@ Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភ
 - https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-khmer.md
 - https://scripts.sil.org/cms/scripts/page.php?id=cmplxrndexamples&site_id=nrsi
 - http://sile-typesetter.org/
+- [Sovichea/typsastra](https://github.com/Sovichea/typsastra) A complex-script-first Typst environment for research and long-form multilingual writing.
 
 ---
 
